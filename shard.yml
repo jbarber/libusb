@@ -7,10 +7,4 @@ version: 0.1.0
 # description: |
 #   Short description of libusb
 
-dependencies:
-
-# development_dependencies:
-#   webmock:
-#     github: manastech/webmock.cr
-
 license: MIT
